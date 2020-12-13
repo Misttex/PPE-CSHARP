@@ -1,0 +1,10 @@
+D:\Cours\PPE 3 - GSB C#\Application\PPE_3_GSB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Cours\PPE 3 - GSB C#\Application\PPE_3_GSB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Cours\PPE 3 - GSB C#\Application\PPE_3_GSB\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Cours\PPE 3 - GSB C#\Application\PPE_3_GSB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Cours\PPE 3 - GSB C#\Application\PPE_3_GSB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FAccueil.resources
+D:\Cours\PPE 3 - GSB C#\Application\PPE_3_GSB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Cours\PPE 3 - GSB C#\Application\PPE_3_GSB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Cours\PPE 3 - GSB C#\Application\PPE_3_GSB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Cours\PPE 3 - GSB C#\Application\PPE_3_GSB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Cours\PPE 3 - GSB C#\Application\PPE_3_GSB\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FMenu.resources
